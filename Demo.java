@@ -1,6 +1,6 @@
 public class Demo{
 public static void main(String args[])
 {
-System.out.printn("Welcome to JENKINS");
+System.out.println("Welcome to JENKINS");
 }
 }
